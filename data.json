@@ -1,0 +1,222 @@
+{
+    "broadcast-rcon-to-ops": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "view-distance": {
+        "default": "10",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "max-build-height": {
+        "default": "256",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "server-ip": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "level-seed": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "rcon.port": {
+        "default": "25575",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "gamemode": {
+        "default": "survival",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "server-port": {
+        "default": "25565",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "allow-nether": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "enable-command-block": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "enable-rcon": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "enable-query": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "op-permission-level": {
+        "default": "4",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "prevent-proxy-connections": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "generator-settings": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "resource-pack": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "level-name": {
+        "default": "world",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "rcon.password": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "player-idle-timeout": {
+        "default": "0",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "motd": {
+        "default": "A Minecraft Server",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "query.port": {
+        "default": "25565",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "force-gamemode": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "hardcore": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "white-list": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "broadcast-console-to-ops": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "pvp": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "spawn-npcs": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "generate-structures": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "spawn-animals": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "snooper-enabled": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "difficulty": {
+        "default": "easy",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "function-permission-level": {
+        "default": "2",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "network-compression-threshold": {
+        "default": "256",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "level-type": {
+        "default": "default",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "spawn-monsters": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "max-tick-time": {
+        "default": "60000",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "enforce-whitelist": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "use-native-transport": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "max-players": {
+        "default": "20",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "resource-pack-sha1": {
+        "default": "",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "spawn-protection": {
+        "default": "16",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "online-mode": {
+        "default": "true",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "allow-flight": {
+        "default": "false",
+        "type": "TODO",
+        "affects": "TODO"
+    },
+    "max-world-size": {
+        "default": "29999984",
+        "type": "TODO",
+        "affects": "TODO"
+    }
+}
