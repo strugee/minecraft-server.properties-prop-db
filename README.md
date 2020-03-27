@@ -1,4 +1,4 @@
-# Minecraft `server.properties` annotation dataset
+# Minecraft `server.properties` property dataset
 
 This repository contains a machine-readable dataset of information about key/value pairs in Minecraft Server's `server.properties` file.
 
