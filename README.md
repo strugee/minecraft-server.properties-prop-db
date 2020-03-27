@@ -26,6 +26,10 @@ What aspect of server operation this option affects. Possible values are:
 * `policy`: affects in-game permissions. For example, what powers ops have, whether the whitelist is enabled, etc.
 * `other`: parameters that do not fit neatly into the other categories.
 
+## `meta.json`
+
+`meta.json` contains meta-information about the dataset. Currently it has only one key, `schema-version`, which will be increased every time the schema is updated in a backwards-incompatible way. It will not be changed if backwards-compatible additions are made.
+
 ## Author
 
 AJ Jordan <alex@strugee.net>
