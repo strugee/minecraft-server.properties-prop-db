@@ -1,6 +1,6 @@
 # Minecraft `server.properties` property dataset
 
-This repository contains a machine-readable dataset of information about key/value pairs in Minecraft Server's `server.properties` file.
+This repository contains a machine-readable dataset of information about key/value pairs in Minecraft Server's `server.properties` file. You can consume it either as an npm module or by just parsing the JSON in the repository.
 
 Currently, only Java edition data is included in this repository.
 
@@ -29,6 +29,20 @@ What aspect of server operation this option affects. Possible values are:
 ## `meta.json`
 
 `meta.json` contains meta-information about the dataset. Currently it has only one key, `schema-version`, which will be increased every time the schema is updated in a backwards-incompatible way. It will not be changed if backwards-compatible additions are made.
+
+## npm module
+
+To include the dataset in your project:
+
+    $ npm install --save minecraft-server.properties-prop-db
+
+To get at the data:
+
+    var minecraftServerDb = require('minecraft-server.properties-prop-db');
+
+To get at the meta-info:
+
+    var metaInfo = require('minecraft-server.properties-prop-db/meta');
 
 ## Author
 

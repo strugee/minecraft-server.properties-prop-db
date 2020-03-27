@@ -1,0 +1,25 @@
+{
+  "name": "minecraft-server.properties-prop-db",
+  "version": "1.0.0",
+  "description": "Machine-readable dataset of information about key/value pairs in Minecraft Server's `server.properties` file",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/minecraft-server.properties-prop-db.git"
+  },
+  "keywords": [
+    "dataset",
+    "minecraft",
+    "minecraft-server",
+    "data"
+  ],
+  "author": "AJ Jordan <alex@strugee.net>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/strugee/minecraft-server.properties-prop-db/issues"
+  },
+  "homepage": "https://github.com/strugee/minecraft-server.properties-prop-db#readme"
+}
