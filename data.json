@@ -7,7 +7,7 @@
     "view-distance": {
         "default": "10",
         "type": "number",
-        "affects": ""
+        "affects": "operations"
     },
     "max-build-height": {
         "default": "256",
