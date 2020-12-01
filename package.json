@@ -1,6 +1,6 @@
 {
   "name": "minecraft-server.properties-prop-db",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Machine-readable dataset of information about key/value pairs in Minecraft Server's `server.properties` file",
   "main": "data.json",
   "scripts": {
