@@ -218,5 +218,30 @@
         "default": "29999984",
         "type": "number",
         "affects": "other"
+    },
+    "sync-chunk-writes": {
+        "default": "true",
+        "type": "boolean",
+        "affects": "operations"
+    },
+    "enable-jmx-monitoring": {
+        "default": "false",
+        "type": "boolean",
+        "affects": "operations"
+    },
+    "enable-status": {
+        "default": "true",
+        "type": "boolean",
+        "affects": "other"
+    },
+    "entity-broadcast-range-percentage": {
+        "default": "100",
+        "type": "number",
+        "affects": "operations"
+    },
+    "rate-limit": {
+        "default": "0",
+        "type": "number",
+        "affects": "operations"
     }
 }
